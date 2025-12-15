@@ -36,7 +36,7 @@ const Footer = ({ agentNumber = '923001234567' }) => {
         className="fixed bottom-6 right-6 z-50 px-6 py-3 bg-green-500 rounded-lg shadow-xl hover:bg-green-600 transition duration-300 items-center hidden sm:flex font-bold text-white text-lg " // Added subtle pulse effect for attention
       >
         <ChatBubbleLeftIcon className="h-6 w-6 mr-2" />
-        💬 Chat on Whatsapp
+        Chat on Whatsapp
       </a>
     </>
   );

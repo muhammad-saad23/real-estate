@@ -70,8 +70,8 @@ const LeadForm = ({ areaOptions = ['DHA Lahore', 'Bahria Town', 'Askari X', 'Oth
   return (
     <section className="p-6 bg-white shadow-2xl rounded-xl -mt-8 z-10 relative mx-4 sm:mx-auto max-w-lg transform transition-transform duration-300 hover:scale-[1.01]">
       <h2 className="text-3xl font-extrabold text-center text-gray-800 mb-2">
-        Start Your Property Search
-      </h2>
+      Filter Serious Leads Instantly
+            </h2>
       <p className="text-center text-md text-gray-600 mb-8 border-b pb-4">
         Connect directly with the agent on WhatsApp.
       </p>
@@ -182,7 +182,7 @@ const LeadForm = ({ areaOptions = ['DHA Lahore', 'Bahria Town', 'Askari X', 'Oth
           className="w-full p-4 mt-6 bg-green-600 hover:bg-green-700 text-white font-bold text-lg rounded-lg transition duration-150 ease-in-out shadow-xl hover:shadow-2xl flex items-center justify-center transform hover:scale-[1.02]"
         >
           <PhoneIcon className="h-5 w-5 mr-2" />
-          ✅ Send Details on WhatsApp
+          ✅ Get Property Options on WhatsApp
         </button>
         
         <p className="text-center text-xs text-gray-500 pt-4">
